@@ -1,0 +1,26 @@
+{
+  "name": "editorjs-render",
+  "version": "0.1.0",
+  "description": "Editor.js blocks to HTML",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkfriend/editorjs-render.git"
+  },
+  "keywords": [
+    "editor",
+    "editor.js",
+    "editorjs",
+    "editor render",
+    "render html",
+    "render blocks",
+    "editorjs render",
+    "blocks to html"
+  ],
+  "author": "darkfriend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkfriend/editorjs-render/issues"
+  },
+  "homepage": "https://github.com/darkfriend/editorjs-render#readme"
+}
